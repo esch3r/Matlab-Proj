@@ -10,7 +10,7 @@ As well as some  [Digital imageProcessing ECSE-4540](https://www.youtube.com/wat
 
 ### .M files for Tutorial into recreational uses of Modeling for fun and Profit. 
 Signal processing of financial signals using Matlab to smooth out Noisy signals & Cross Correlating previous patterns and known 
-indicators of successful trades. 
+indicators of successful trades [MATLAB for Begineers for Quant Finance / Financial Engineering](https://www.youtube.com/watch?v=TClFZ9V4s1w&list=PL_-KSXJS5pxMPrnEN_YmYkDHQuNGR8uiU&index=3)
 
 ### .PDFs of Reports including useage for the .M
 This additional documentation adds context for the purpose of .M 
