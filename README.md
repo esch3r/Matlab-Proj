@@ -1,5 +1,4 @@
 # Matlab-Proj
-=================
 
 *This is my first time using markdown on github*
 ###By: Johnathan Machler
