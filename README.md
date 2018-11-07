@@ -1,7 +1,7 @@
 # Matlab-Proj
 
 *This is my first time using markdown on github*
-### Johnathan Machler
+
 
 ## This Respository Includes: 
 
