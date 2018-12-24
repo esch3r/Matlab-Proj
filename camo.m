@@ -2,7 +2,7 @@
  
  function [c] = camo(width,length,j,kernel)
     
-    %% Needs a kernel generator which creates
+
                   
     for i=1:j
       p1 = conv2(rand(width,length),kernel); 
