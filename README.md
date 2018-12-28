@@ -14,7 +14,7 @@ Survey of some principles covered in course covered by R.I.T  [Digital Image Pro
  Some of the sample images were taken from this CSM  course titled [Multidimensional Signal Processing  CSCI 510/EENG 510 ](http://inside.mines.edu/~whoff/courses/EENG510/) 
 
 ### .M files for  Concrete uses of 1D Signal processing 
-Signal processing for use financial signals using Matlab to smooth out noisy signals, cross correlation, and the like. Fundamentals of signal conditioning concepts  indicators of successful trades [MATLAB for Begineers for Quant Finance / Financial Engineering](https://www.youtube.com/watch?v=TClFZ9V4s1w&list=PL_-KSXJS5pxMPrnEN_YmYkDHQuNGR8uiU&index=3)
+Signal processing for use financial signals using Matlab to smooth out noisy signals, cross correlation, autocorrelation and the like. The essentials for signal conditioning and reconstruction.  [MATLAB for Begineers for Quant Finance / Financial Engineering](https://www.youtube.com/watch?v=TClFZ9V4s1w&list=PL_-KSXJS5pxMPrnEN_YmYkDHQuNGR8uiU&index=3) Tutorial uses of matlab taken at University of Minnesota Duluth in person [EE 2111](http://www.d.umn.edu/~ihayee/Teaching/ee2111/ee2111.htm).
 
 ### .M files for Control Theory 
 
