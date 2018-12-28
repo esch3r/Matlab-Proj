@@ -1,5 +1,5 @@
 # Matlab-Proj
-* Many of these projects were made in [Octave](https://www.gnu.org/software/octave/) which is an opensource version of MATLAB. For the most part if it can be done in Octave it is compatible with MATLAB.*
+* Many of these projects were made in [Octave](https://www.gnu.org/software/octave/) which is an opensource version of MATLAB. For the most part if it can be done in Octave it is compatible with MATLAB.
 
 
 ## This Respository Includes: 
