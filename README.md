@@ -8,7 +8,7 @@
 
 ### .M files for miscellaneous plots & Visualizations
 Relating to and used in a common differential Equations course. 
-As well as some  [Digital imageProcessing ECSE-4540](https://www.youtube.com/watch?v=UhDlL-tLT2U&list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX), [Computational photography CS6475](https://www.youtube.com/watch?v=45gqr8e6WG4&list=PLAwxTw4SYaPn-unAWtRMleY4peSe4OzIY), and [Computer Vision CSCI512](https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL7v9EfkjLswLfjcI-qia-Z-e3ntl9l6vp) 
+As well as some  [Digital imageProcessing ECSE-4540](https://www.youtube.com/watch?v=UhDlL-tLT2U&list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX), [Computational photography CS6475](https://www.youtube.com/watch?v=45gqr8e6WG4&list=PLAwxTw4SYaPn-unAWtRMleY4peSe4OzIY), and [Computer Vision CSCI512](https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL7v9EfkjLswLfjcI-qia-Z-e3ntl9l6vp).  As of 12.28.18  I've read through the lecture notes at Colorado School of Mines course on [Multidimensional Signal Processing  CSCI 510/EENG 510 ](http://inside.mines.edu/~whoff/courses/EENG510/) 
 
 ### .M files for Tutorial into recreational uses of Modeling for fun and Profit. 
 Signal processing of financial signals using Matlab to smooth out Noisy signals & Cross Correlating previous patterns and known 
