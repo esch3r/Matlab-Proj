@@ -1,28 +1,28 @@
+function[dipytch] = RandomDotSteogram(Img,hshift,x,y)
 
-function[dipytch] = RandomDotSteogram(Image,hshift,x,y)
-
-%Viewing angle calculation 
-% Determined by depth of view 
-% This parameter alters the shift 
-
+Gx= conv2(Img,[1,0,-1;2,0,-2;1,0,-1]); % Calculate Edges
+BinImg= im2bw(Gx, graythresh (Img(:), "moments")); % Convert Image to 1s & 0s
 
 % First compose a dipytch 
 region1 = rand(x,y);
-[m, n] = size(region1)
 region2 = region1;
 
 subplot(2,1,1)
 imshow(region1);
 title('Original Image');
 
+
 %Etch pattern
-Etch(:,:) = region1(x/4:1:x/2,y/4:1:x/2);
+Graft = BinImage.*region1;  % multi image by 1 
+Etch=imcomplement(BinImage).*region1;%multiply image by 0
 
 %Shift Etch horizontally
-Etch =imtranslate(Etch,hshift,0);
+Graft=imtranslate(Graft,hshift,0);
+
+% Convert spot where it is to be placed to zeros
+
 
 % Replace Etching on one of regions
-
 diptych = [region1, region2]; 
 figure(1)
 
