@@ -1,6 +1,5 @@
 function Targ_filled = PoissonGrayImEditor(Targ, MaskTarg, AdjacencyMat, TargBoundry)
 
-%% params for Conjagant gradient solver
 max_iter = 200;
 tolerance = 1e-7;
 
