@@ -27,9 +27,8 @@ diptych = [region1, region2];
 figure(1)
 
 subplot(2,1,2)
-imshow(diptych); 
 
 title('RandomDotSteogram','FontSize', 24);
-axis on;
-axis image;
+
+return imshow(diptych); 
 endfunction 
