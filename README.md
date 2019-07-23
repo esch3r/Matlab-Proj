@@ -8,7 +8,7 @@
 ### .M files for Computer Vision Fundamentals & Image Processing 
 Survey of some principles covered in course covered by R.I.T  [Digital Image Processing ECSE-4540](https://www.youtube.com/watch?v=UhDlL-tLT2U&list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)  [Computer Vision CSCI512](https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL7v9EfkjLswLfjcI-qia-Z-e3ntl9l6vp).  This link goes to a udemy course by Georgia Tech [Computational photography CS6475](https://www.youtube.com/watch?v=45gqr8e6WG4&list=PLAwxTw4SYaPn-unAWtRMleY4peSe4OzIY) which is fairly useful course especially for the use in designing applications which would use visual processing from a typical cellphone camera for measurement and photo reconstruction. Construction of some homework assignements based on lecture notes at Colorado School of Mines course on [Multidimensional Signal Processing  CSCI 510/EENG 510 ](http://inside.mines.edu/~whoff/courses/EENG510/).  Supplementing some of concepts were taken from Harvey Mudds [Neuroscience](http://fourier.eng.hmc.edu/e180/lectures/) course on the human visual system which bridges the understanding between human perception the precepts which form the foundations in compuer vision today. For 3D dimensional modeling and depth perception also known as Steriopsis [E180](http://fourier.eng.hmc.edu/e180/lectures/depth/node1.html). An additional find to supplment this is their handbook on computer vision [Computer Vision Handbook](https://www.cs.hmc.edu/~fleck/computer-vision-handbook/index.html) 
 
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+![Image processing](edge.jpg)
 
 
 ### .JPEG .gif and other image formats for use in templates and  Test patterns
