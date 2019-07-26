@@ -11,15 +11,13 @@ Survey of some principles covered in course covered by R.I.T  [Digital Image Pro
 
 #### Major projects 
 
-![Stereogram ](Anaglyph.jpg)      [!Camo](Camouflage1.1.PNG)  
-
-
-
-![Image processing](ImageGx.PNG)
+![Stereogram ](Anaglyph.jpg)      [!Camo ](Camouflage1.1.PNG)  
 
 
 ### .JPEG .gif and other image formats for use in templates and  Test patterns
  Some of the sample images were taken from this CSM  course titled [Multidimensional Signal Processing  CSCI 510/EENG 510 ](http://inside.mines.edu/~whoff/courses/EENG510/).  Other experiments and homework examples were take from this site [Image Processing Learning Examples](https://homepages.inf.ed.ac.uk/rbf/HIPR2/hipr_top.htm)
+ 
+ 
  
  ![Moire Pattern test image]( MoirePattern.gif)
  
