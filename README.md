@@ -11,7 +11,7 @@ Survey of some principles covered in course covered by R.I.T  [Digital Image Pro
 
 #### Major projects 
 
-![Stereogram ](Anaglyph.jpg)      [!Camo ](Camouflage1.1.PNG)  
+![Stereogram ](Anaglyph.jpg)      [!Camo ](camo.png)  
 
 
 ### .JPEG .gif and other image formats for use in templates and  Test patterns
