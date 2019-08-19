@@ -1,1 +1,1 @@
-![Result]('Boundary.m result.png')
+![Result](Boundary.m result.png)
