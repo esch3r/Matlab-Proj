@@ -1,4 +1,4 @@
-A = imread('rice.png');
+A = imread('Zebra.png');
 A = imresize(A,0.55);
 Agray = rgb2gray(A);
 figure
