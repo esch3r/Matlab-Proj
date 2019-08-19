@@ -10,7 +10,7 @@ Survey of some principles covered in course covered by R.I.T  [Digital Image Pro
 
 
 ### Camouflage  Generation samples 
-     ![Camo ](camo.png)  
+
 
 
 ### .JPEG .gif and other image formats for use in templates and  Test patterns
