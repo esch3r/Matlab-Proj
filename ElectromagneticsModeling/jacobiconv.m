@@ -1,3 +1,5 @@
+% By Johnathan Machler
+% Usually takes about  ~ 1000 iterations 
 
 function[value] = jacobiconv (M,N,tol,err)
 
