@@ -1,8 +1,8 @@
 % By: Johnathan Machler 
 % Date: 01.23.19
 
-pkg load control
-pkg load symbolic
+% pkg load control
+% pkg load symbolic
 
 G1 = tf([0 4], [0 1]); 
 G2 = tf([0 1],[1 2]); 
@@ -12,5 +12,8 @@ pole(Sys)'
 
 rlocus(Sys); 
 v=[-6 6 -6 6]; axis(v);axis('square');grid on;
+
+[Num,Den] = tfdata(Sys,'v');
 syms s t
-ilaplace(Sys, s, t) % Takes inverse laplace transform of symbolic expression
+Sys_syms = poly2sym(Num,s)/poly2sym(Den,s); % Convert tf to symbolic expression
+ilaplace(Sys_syms, s, t) % Takes inverse laplace transform of symbolic expression
